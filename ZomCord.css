@@ -1,0 +1,38 @@
+/**
+ * @name MyDick
+ * @author YourMother
+ * @version 1.0.0
+ * @description Fucked your mom last night
+ */
+ 
+:root {
+	/* APP BACKGROUND */
+	--background-image: url(https://imgur.com/jB9ALOb);
+	
+	/* RADIAL STATUS */
+	--rs-small-spacing: 2px;
+	--rs-medium-spacing: 3px;
+	--rs-large-spacing: 4px;
+	
+	--rs-small-width: 2px;
+	--rs-medium-width: 3px;
+	--rs-large-width: 4px;
+	
+	--rs-avatar-shape: 50%;
+	
+	--rs-phone-visible: block;
+	
+	/* STATUS COLORS */
+	--online-color: #43b581; /* [default: #43b581] */
+	--idle-color: #faa61a; /* [default: ##faa61a] */
+	--dnd-color: #982929; /* [default: #982929] */
+	--streaming-color: #593695; /* [default: #593695] */
+	--offline-color: #808080; /* [default: #808080] */
+	
+	/* CORNER ROUNDNESS (BORDER-RADIUS) */
+	--roundness-xl: 22px; /* roundness of big panel outer corners */
+	--roundness-l: 20px; /* popout panels */
+	--roundness-m: 16px; /* smaller panels, images, embeds */
+	--roundness-s: 12px; /* members, settings inputs */
+	--roundness-xs: 10px; /* channels, buttons */
+	--roundness-xxs: 8px; /* searchbar, small elements */
